@@ -33,7 +33,7 @@ Hey there! Thanks for checking out this project. This is a simple but powerful w
    ```bash
    git clone https://github.com/Saketh35/YouTube-Video-Summarizer.git
    cd YouTube-Video-Summarizer
-````
+   ````
 
 2. **Set up a virtual environment**
 
