@@ -1,0 +1,9 @@
+.animated-text {
+    animation: fadeIn 1.5s ease-in-out;
+    white-space: pre-wrap;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
